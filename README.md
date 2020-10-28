@@ -1,7 +1,6 @@
 ### Hi there 👋
-A self taught programmer with experience in development of systems in various domains. A key component of my success lies in the fact that I never limit myself to a particular technology as a core skill and hence, I’ve always embraced new technologies.  
-My key skill has been to independently author processes improving utility tools and APIs, in many programming languages.
-As a hobby, I love to explore github to find out what the open source communities are developing. In short, someone who encourages learning and the sharing of ideas and is always open to new ways of working.
+A "community-taught" programmer with a "can-do" attitude who developed his interest in Computer Science and Software Development over the years. Enjoy taking challenges and developing beautiful, functional, responsive and easy-to-use products.
+The best place to find Ayush is in front of his system. When he is not getting his hands dirty with code, he likes to hang around with like-minded people to share his knowledge and learn more.
 
 <!--
 **ayush3298/ayush3298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
